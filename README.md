@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project focuses on building a strong data analysis foundation for **loan approval prediction** by exploring and preprocessing a dataset of loan applicants.
+I aimed on building a strong data analysis foundation for **loan approval prediction** by exploring and preprocessing a dataset of loan applicants.
 
 The objective is to identify the key factors that influence **creditworthiness**, helping financial institutions make informed lending decisions while minimizing financial risk.
 
@@ -12,7 +12,7 @@ The objective is to identify the key factors that influence **creditworthiness**
 
 ### 1. Data Loading & Inspection
 
-The dataset was imported and examined to understand its structure and overall quality.
+Without gatekeeping anything, I will explain whole workflow so you can do this as well.First  The dataset was imported and examined to understand its structure and overall quality.
 
 **Tasks performed:**
 - Loaded the dataset
@@ -132,7 +132,7 @@ These steps provide a solid foundation for building accurate, interpretable, and
 - NumPy
 - Matplotlib
 - Seaborn
-- Scikit-learn
+- Scipy
 
 ---
 
